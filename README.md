@@ -28,7 +28,7 @@ A TensorFlow-based Convolutional Neural Network (CNN) model that achieves <b>99%
   <li><b>Clone the repository:</b></li>
 
 
-  <code>git clone https://github.com/your-username/handwritten-digit-classifier.git
+  <code>git clone https://github.com/lewis-shearer/handwritten-digit-classifier.git
    cd handwritten-digit-classifier</code>
 
 

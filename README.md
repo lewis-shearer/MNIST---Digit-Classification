@@ -23,26 +23,6 @@ A TensorFlow-based Convolutional Neural Network (CNN) model that achieves <b>99%
 
 
   
-<h2>📦 Installation</h2>
-<ol>
-  <li><b>Clone the repository:</b></li>
-
-
-  <code>git clone https://github.com/lewis-shearer/MNIST---Digit-Classification.git
-   cd MMIST---Digit-Classification</code>
-
-
-<li><b>Install dependencies:</b></li>
-
-Ensure you have Python installed, then run:
-<code>pip install -r requirements.txt</code>
-<li><b>Prepare the environment:</b></li>
-
-- Ensure TensorFlow is properly installed and supports your hardware (GPU support is recommended for faster training).
-- Test OpenCV and Tkinter installations.
-
-</ol>
-
 
 
 <h2>📘 Usage</h2>
